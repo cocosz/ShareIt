@@ -4,4 +4,5 @@
 
 # Instructions 
 
-Clone this repo and install all the dependencies as mentioned in the requirements.txt file
+Clone this repo and install all the dependencies as mentioned in the requirements.txt file.
+Follow the instructions as mentioned in the application.
