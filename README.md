@@ -1,6 +1,6 @@
 # ShareIt
 
- An blockchain based micro-money lending platform which uses Celo and Flutter.
+ An blockchain based micro-money lending platform which uses Celo and Javascript using Django on the backend.
 
 # Instructions 
 
